@@ -8,21 +8,22 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MATHAI4ED Workshop at NeurIPS'21
+title:  DatalogMTL Tutorial at KR'22
 
 
 # Short description of your site
-description: Math AI for Education
+description: DatalogMTL: theory and practice of temporal reasoning
+
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:  
-  Call: "cfp"
+  About: "cfp"
   # Dates: "#dates"
-  Speakers&Panelists: "speakers"
-  Papers: "papers"
-  Schedule: "schedule"
+  Description: "speakers"
+  Speakers: "papers"
+  Outline: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # - GitHub Pages: "https://pages.github.com/"
