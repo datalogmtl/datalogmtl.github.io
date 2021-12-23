@@ -1,0 +1,63 @@
+yburda:
+    name: "Yuri Burda"
+    url: "https://scholar.google.com/citations?hl=en&user=Amky96kAAAAJ&view_op=list_works&sortby=pubdate"
+    affiliation: "OpenAI"
+    img: "yburda.jpg"
+    bio: "Yuri Burda received his PhD in mathematics at the University of Toronto. Since then, he has been a research scientist at OpenAI. He is now mainly focusing on applying machine learning to mathematical reasoning, with the aim to improve future math education."
+
+jboaler:
+    name: "Jo Boaler"
+    url: "https://ed.stanford.edu/faculty/joboaler"
+    affiliation: "Stanford University"
+    img: "jboaler.jpg"
+    bio: "Jo Boaler is a British education author and Nomellini-Olivier Professor of Mathematics Education at the Stanford Graduate School of Education. Boaler is involved in promoting reform mathematics and equitable mathematics classrooms. She is the co-founder and faculty director of youcubed, a Stanford centre that markets and sells mathematics education resources to teachers, students and parents. She is the author of nine books, including Limitless Mind (2019), Mathematical Mindsets (2016), What's Math Got To Do With It? (2009) and The Elephant in the Classroom (2010), all written for teachers and parents with the goal of improving mathematics education in both the US and UK."
+
+hhajishirzi:
+    name: "Hannaneh Hajishirzi"
+    url: "https://homes.cs.washington.edu/~hannaneh/"
+    affiliation: "University of Washington"
+    img: "hhajishirzi.jpg"
+    bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
+
+cpiech:
+    name: "Chris Piech"
+    url: "https://web.stanford.edu/~cpiech/bio/index.html"
+    affiliation: "Stanford University"
+    img: "cpiech.jpg"
+    bio: "Chris Piech is an Assistant Professor of Computer Science Education, Stanford University. Piech was born and grew up in Nairobi, Kenya. When Piech was twelve Piech moved to Kuala Lumpur, Malaysia where Piech lived until Piech came to Stanford for university, liked it a lot and stayed. Piech loves teaching and Piech is into exploring our world (through both science and travelling). Piech's research is in machine learning to understand human learning."
+
+msachan:
+    name: "Mrinmaya Sachan"
+    url: "https://sites.google.com/site/mrinsachan/"
+    affiliation: "ETH"
+    img: "msachan.jpg"
+    bio: "Mrinmaya Sachan is an Assistant Professor in the Computer Science department at ETH Zurich. Sachan is also one of the core faculty members in the ETH AI center. His interests are in building machine learning models for natural language processing, knowledge discovery and reasoning. Specifically, He focuses on machine reading -- on building background knowledge of the world by extracting knowledge from text and incorporating the extracted background knowledge to solve problems that require reasoning. He is also interested in problems in natural language processing and education."
+
+ssingh:
+    name: "Sumeet Singh"
+    url: "https://www.linkedin.com/in/sumeetssingh/"
+    affiliation: "Turnitin"
+    img: "ssingh.jpg"
+    bio: "Sumeet Singh is a distinguished scientist at Turnitin Gradescope, a company that has provided AI-assisted grading service to more than 1000 universities across the world. Sighn has rich research and industry experiences and plans to share his expertise and insights in building grading systems at Gradescope."
+
+kvanlehn:
+    name: "Kurt Vanlehn"
+    url: "https://www.public.asu.edu/~kvanlehn/"
+    affiliation: "Arizona State University"
+    img: "kvanlehn.jpg"
+    bio: "Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in Science, Technology, Engineering and Math in the Ira A. Fulton Schools of Engineering at Arizona State University. He received a doctorate from MIT in 1983 in computer science. He founded and co-directed two large National Sciences Foundation research centers. He has published more than 125 peer-reviewed publications, is a fellow in the Cognitive Science Society, and is on the editorial boards of Cognition and Instruction and the International Journal of Artificial Intelligence in Education. VanLehn's research focuses on intelligent tutoring systems, classroom orchestration systems, and other intelligent interactive instructional technology."
+
+swolfram:
+    name: "Stephen Wolfram"
+    url: "https://www.stephenwolfram.com/"
+    affiliation: "Wolfram Research"
+    img: "swolfram.png"
+    bio: "Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and the Wolfram Language; the author of A New Kind of Science; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research. Over the course of more than four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business. In 2012, he was named a fellow of the American Mathematical Society."
+
+szhu:
+    name: "Song-Chun Zhu"
+    url: "http://www.stat.ucla.edu/~sczhu/"
+    affiliation: "UCLA"
+    img: "szhu.jpg"
+    bio: "Song-Chun Zhu is a Chinese computer scientist and applied mathematician known for his work in computer vision, cognitive artificial intelligence and robotics. Zhu is a professor in the Departments of Statistics and Computer Science at the University of California, Los Angeles. Zhu also serves as Director of the UCLA Center for Vision, Cognition, Learning and Autonomy (VCLA). Zhu has published extensively and lectured globally on artificial intelligence, and in 2011, he became an IEEE Fellow (Institute of Electrical and Electronics Engineers) for “contributions to statistical modeling, learning and inference in computer vision.”"
+

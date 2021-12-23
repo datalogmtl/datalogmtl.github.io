@@ -1,0 +1,113 @@
+opening:
+  event: "Introduction and Opening Remarks"
+  start: "08:55-09:00"
+  type: "General"
+
+szhu:
+  event: "szhu"
+  title: "Solving Math Problems by Joint Parsing and Cognitive Reasoning"
+  start: "09:00-09:30"
+  type: "Invited"
+
+msachan:
+  event: "msachan"
+  title: "Natural Language Processing meets Educational Data Science"
+  start: "09:30-10:00"
+  type: "Invited"
+
+poster1:
+  event: "Poster Session 1"
+  title: ""
+  author: ""
+  start: "10:00-10:30"
+  type: "General"
+
+break1:
+  event: "Coffee Break"
+  title: ""
+  start: "10:30-11:00"
+  type: "General"
+
+swolfram:
+  event: "swolfram"
+  title: "Interview with Stephen Wolfram"
+  start: "11:00-12:00"
+  type: "Spotlights"
+
+break2:
+  event: "Lunch Break"
+  title: ""
+  start: "12:00-13:00"
+  type: "General"
+
+hhajishirzi:
+  event: "hhajishirzi"
+  title: "Understanding and Knowledge Extraction from Mathematical and Scientific Text"
+  start: "13:00-13:30"
+  type: "Invited"
+
+yburda:
+  event: "yburda"
+  title: "Free-form Grading of Math Assignments: A case study in collaboration with Art of Problem Solving"
+  start: "13:30-14:00"
+  type: "Invited"
+
+kvanlehn:
+  event: "kvanlehn"
+  title: "FACT: An automated teaching assistant for middle school math classrooms"
+  start: "14:00-14:30"
+  type: "Invited"
+
+poster2:
+  event: "Poster Session 2"
+  title: ""
+  author: ""
+  start: "14:30-15:00"
+  type: "General"
+
+break3:
+  event: "Coffee Break"
+  title: ""
+  start: "15:00-15:30"
+  type: "General"
+
+kvanlehssinghn:
+  event: "ssingh"
+  title: "Weaving AI Into Education"
+  start: "15:30-16:00"
+  type: "Invited"
+
+contrib1:
+  title: "MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education"
+  name: "Tracy Jia Shen"
+  url: "https://thinkregressively.netlify.app/"
+  affiliation: "Penn State University"
+  start: "16:00-16:20"
+  type: "Contributed"
+
+contrib2:
+  title: "Towards Grounded Natural Language Proof Generation"
+  name: "Jiacheng (Gary) Liu"
+  url: "https://liujch1998.github.io/"
+  affiliation: "University of Washington"
+  start: "16:20-16:40"
+  type: "Contributed"
+
+break4:
+  event: "Coffee Break"
+  title: ""
+  start: "16:40-17:00 "
+  type: "General"
+
+panel1:
+  event: "Panel Discussion"
+  title: "Math AI for Education: Bridging the Gap Between Research and Smart Education"
+  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
+  speakers: ["jboaler", "yburda", "cpiech", "ssingh", "kvanlehn"]
+  start: "17:00-18:00"
+  type: "Panel"  
+
+closing:
+  event: "Closing Remarks"
+  start: "18:00-18:05"
+  type: "General"

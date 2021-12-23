@@ -1,0 +1,30 @@
+plu:
+  name: "Pan Lu"
+  url: "https://lupantech.github.io/"
+  affiliation: "UCLA"
+  img: "panlu.jpg"
+ywu:
+  name: "Yuhuai (Tony) Wu"
+  url: "http://www.cs.toronto.edu/~ywu/"
+  affiliation: "Stanford University / Google"
+  img: "ywu.png"
+swelleck:
+  name: "Sean Welleck"
+  url: "https://cs.nyu.edu/~welleck/"
+  affiliation: "University of Washington, AI2"
+  img: "swelleck.png"
+xliang:
+  name: "Xiaodan Liang"
+  url: "https://lemondan.github.io/"
+  affiliation: "Sun Yat-sen University"
+  img: "xliang.png"
+exing:
+  name: "Eric P. Xing"
+  url: "http://www.cs.cmu.edu/~epxing/"
+  affiliation: "CMU, MBZUAI"
+  img: "exing.jpg"
+jmcclelland:
+    name: "Jay McClelland"
+    url: "https://stanford.edu/~jlmcc/"
+    affiliation: "Stanford University"
+    img: "jmcclelland.png"
