@@ -293,8 +293,6 @@ a.read_more2:hover {
 
 
 
-
-
 /* Services
 ---------------------------------*/
 
@@ -762,6 +760,10 @@ img {
 }
  
 #aboutUs {
+    padding: 60px 0;
+}
+
+#systems {
     padding: 60px 0;
 }
 
