@@ -14,11 +14,10 @@
 
     <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
-    <py-config type="json">
-        {
-          "packages": ["./static/littleutils-0.2.2-py3-none-any.whl", "./static/meteor_reasoner-1.0.10-py3-none-any.whl"],
-          "paths": ["./app.py"]
-        }
+    <py-config>
+       packages =["./static/littleutils-0.2.2-py3-none-any.whl", "./static/meteor_reasoner-1.0.10-py3-none-any.whl"]
+       [[fetch]]
+       files=["./app.py"]
     </py-config>
 	</head>
 	<body>
@@ -206,14 +205,7 @@
 	    program = program.split("\n")
 	    result = app.is_entail(program, dataset, fact)
 	    if result != "automata":
-	        Element('result').write(result)
+	        Element('result').element.innerHTML = result
 	    else:
-	        Element('result').write("Sorry, we currently do not support recursive programs with unbounded intervals.")
+	        Element('result').element.innerHTML = "Sorry, we currently do not support recursive programs with unbounded intervals."
 </py-script>
-
-
-
-
-
-
-
